@@ -1,0 +1,25 @@
+{
+  "name": "contenthub",
+  "private": false,
+  "version": "1.0.0",
+  "description": "Content Hub widgets.",
+  "main": "contenthub.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddsky/contenthub.git"
+  },
+  "keywords": [
+    "dynamic content",
+    "news stream",
+    "templating"
+  ],
+  "author": "David Urbansky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ddsky/contenthub/issues"
+  },
+  "homepage": "https://github.com/ddsky/contenthub#readme"
+}

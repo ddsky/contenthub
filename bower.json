@@ -1,0 +1,34 @@
+{
+  "name": "contenthub",
+  "version": "1.0.0",
+  "main": [
+    "js/contenthub.min.js",
+    "css/contenthub.min.css"
+  ],
+  "ignore": [
+    "**/.*",
+    ".git",
+    "img",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  },
+  "homepage": "https://github.com/ddsky/contenthub",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ddsky/contenthub.git"
+  },
+  "authors": [
+    "David Urbansky <davidurbansky@gmail.com>"
+  ],
+  "description": "Content Hub dynamic content.",
+  "keywords": [
+    "dynamic content",
+    "news stream",
+    "content"
+  ],
+  "license": "MIT"
+}
