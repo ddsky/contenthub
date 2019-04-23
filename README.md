@@ -11,7 +11,7 @@ Example on the [foosball tracking app](https://kicktrack.app) KickTrack:
 
 ## Installation
 
-Download the contenthub.min.js and contenthub.min.css or simply install via bower writing `bower install contenthub` or via npm writing `npm install contenthub`.
+Download the contenthub.min.js and contenthub.min.css or simply install via bower writing `bower install contenthub-js` or via npm writing `npm install contenthub-js`.
 
 ## Configuration and Usage
 
